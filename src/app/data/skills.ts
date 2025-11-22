@@ -10,6 +10,7 @@ export const skillCategories: SkillCategory[] = [
     skills: [
       'React',
       'Next.js',
+      'React Router',
       'Tailwind CSS',
       'Styled Components',
       'Redux',
@@ -20,10 +21,10 @@ export const skillCategories: SkillCategory[] = [
     category: 'Backend',
     skills: [
       'Node.js',
-      'Express',
+      'Express.js',
       'REST APIs',
+      'MySQL',
       'PostgreSQL',
-      'MongoDB',
       'DynamoDB',
     ],
   },

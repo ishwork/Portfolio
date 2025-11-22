@@ -12,9 +12,10 @@ export const experiences: Experience[] = [
       4: 'Contributed in implementing login feature in the website using AWS Cognito service and NextAuth.js.',
       5: 'Created and deployed cloud infrastructures using AWS CDK.',
       6: 'Customized and extended the CMS used by news editors and helping editorial workflows.',
-      7: 'Collaborated closely with designers, developers and product stakeholders in an agile team environment.',
-      8: 'Participated in sprint planning, code reviews and feature rollouts to ensure high-quality delivery.',
-      9: 'Ensured maintainable, testable, and well-documented code across the codebase.',
+      7: 'Developed and maintained internal application to be used by Sales and Marketing teams.',
+      8: 'Collaborated closely with designers, developers and product stakeholders in an agile team environment.',
+      9: 'Participated in sprint planning, code reviews and feature rollouts to ensure high-quality delivery.',
+      10: 'Ensured maintainable, testable, and well-documented code across the codebase.',
     },
     technologies: [
       'TypeScript',
