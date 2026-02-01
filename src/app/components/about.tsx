@@ -17,16 +17,15 @@ export function About() {
 
           <div className="space-y-6 text-gray-600 leading-relaxed">
             <p>
-              I am a software developer with over 4 years of professional
-              experience, specialize in building and maintaining robust software
-              solutions. I am passionate about leveraging the power of
-              programming to create and implement innovative applications that
-              enhance business productivity.
+              Results-driven full stack developer with 4+ years of experience
+              and proven expertise in building scalable web applications.
+              Skilled at writing clean, scalable and production-ready code, with
+              a consistent focus on performance, quality and user experience.
             </p>
             <p>
-              Driven by a passion for continuous learning and improvement, I
-              actively seek opportunities to expand my knowledge and skills, and
-              apply emerging technologies to create high-quality solutions.
+              A proactive team collaborator who brings a can-do attitude and a
+              commitment to continuous learning and improvement, while
+              delivering impactful solutions.
             </p>
           </div>
         </div>
