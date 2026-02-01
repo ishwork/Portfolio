@@ -6,4 +6,9 @@ const navLinks = [
   { href: '#contact', label: 'Contact' },
 ];
 
-export default navLinks;
+const moonIcon = '/images/icons/moon-icon.svg';
+const sunIcon = '/images/icons/sun-icon.svg';
+const hamburgerIcon = '/images/icons/hamburger-icon.svg';
+const closeIcon = '/images/icons/close-icon.svg';
+
+export { navLinks, moonIcon, sunIcon, hamburgerIcon, closeIcon };
