@@ -2,7 +2,10 @@ import { educations } from '@/data/education';
 
 export function Education() {
   return (
-    <section id="education" className="py-20 md:py-32 px-4 sm:px-6 lg:px-8">
+    <section
+      id="education"
+      className="bg-secondary-background py-20 md:py-32 px-4 sm:px-6 lg:px-8"
+    >
       <div className="container mx-auto max-w-5xl">
         <div className="space-y-4 mb-16">
           <h2 className="text-sm font-semibold text-blue-600 uppercase tracking-wider">
@@ -25,10 +28,10 @@ export function Education() {
 
               <div className="space-y-3">
                 <div>
-                  <h4 className="text-xl font-semibold text-gray-900 mb-1">
+                  <h4 className="text-xl font-semibold text-gray-600 mb-1">
                     {edu.degree}
                   </h4>
-                  <p className="text-sm text-gray-500">{edu.location}</p>
+                  <p className="text-sm text-gray-600">{edu.location}</p>
                 </div>
 
                 <div className="flex items-start gap-3">

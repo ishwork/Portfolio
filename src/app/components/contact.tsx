@@ -27,7 +27,10 @@ const socialLinks = [
 
 export function Contact() {
   return (
-    <section id="contact" className="py-20 md:py-32 px-4 sm:px-6 lg:px-8">
+    <section
+      id="contact"
+      className="py-20 md:py-32 px-4 sm:px-6 lg:px-8 bg-secondary-background"
+    >
       <div className="container mx-auto max-w-2xl text-center space-y-8">
         <div className="space-y-4">
           <h2 className="text-sm font-semibold text-blue-600 uppercase tracking-wider">

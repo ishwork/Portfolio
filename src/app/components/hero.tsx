@@ -20,7 +20,7 @@ export function Hero() {
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 pt-4">
             <a
               href="#contact"
-              className="px-6 py-3 border border-gray-300 text-gray-900 rounded-lg hover:bg-gray-50 transition-colors font-medium"
+              className="px-6 py-3 border border-gray-300 text-gray-500 rounded-lg hover:bg-gray-50 transition-colors font-medium"
             >
               Get In Touch
             </a>
