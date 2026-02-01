@@ -42,6 +42,13 @@ export const skillCategories: SkillCategory[] = [
   },
   {
     category: 'Tools & Others',
-    skills: ['Postman', 'Figma'],
+    skills: [
+      'VS Code',
+      'Cursor',
+      'Postman',
+      'Figma',
+      'Slack',
+      'Microsoft Teams',
+    ],
   },
 ];
