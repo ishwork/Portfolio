@@ -24,3 +24,13 @@
     ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
     'Segoe UI Symbol', 'Noto Color Emoji';
 }
+
+.dark {
+  /* Dark mode text colors */
+  --primary-text: #f9fafb;
+  --secondary-text: #d1d5db;
+
+  /* Dark mode background colors */
+  --primary-background: #111827;
+  --secondary-background: #1f2937;
+}
