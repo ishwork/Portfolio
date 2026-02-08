@@ -6,7 +6,7 @@ export const educations: Education[] = [
     period: '2018 — 2022',
     degree: `Master's degree in Computer Engineering`,
     location: 'Turku, Finland',
-    description: 'Incomplete (Finished 90/120 credit points)',
+    description: 'Finished 90/120 credit points',
   },
   {
     institution: 'Metropolia University of Applied Sciences',
