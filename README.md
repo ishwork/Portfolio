@@ -2,7 +2,10 @@
 
 A portfolio website showcasing my work history and skills.
 
-🔗 **Live:** [https://ishwor-portfolio.netlify.app](https://ishwor-portfolio.netlify.app)
+🔗 **Live:**
+
+- Vercel: [https://ishwork-portfolio.vercel.app](https://ishwork-portfolio.vercel.app)
+- Netlify: [https://ishwor-portfolio.netlify.app](https://ishwor-portfolio.netlify.app)
 
 ## 🛠️ Tools & Technologies
 
