@@ -11,10 +11,20 @@ export const skillCategories: SkillCategory[] = [
       'React',
       'Next.js',
       'React Router',
-      'Tailwind CSS',
-      'Styled Components',
+      'TanStack Query',
       'Redux',
       'Redux Toolkit',
+      'Zustand',
+    ],
+  },
+  {
+    category: 'UI & Styling',
+    skills: [
+      'Vanilla CSS',
+      'Tailwind CSS',
+      'Styled Components',
+      'Sass',
+      'Material-UI',
     ],
   },
   {
@@ -30,7 +40,7 @@ export const skillCategories: SkillCategory[] = [
   },
   {
     category: 'Testing',
-    skills: ['React Testing Library', 'Playwright E2E Testing'],
+    skills: ['Jest', 'React Testing Library', 'Playwright E2E Testing'],
   },
   {
     category: 'DevOps',
